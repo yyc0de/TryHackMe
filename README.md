@@ -31,13 +31,9 @@ If you find any mistakes or think there's a better way to approach a challenge, 
 
 This repository is a personal project, but if you have any insights, corrections, or suggestions, please don’t hesitate to contribute. I welcome any feedback!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Let's Connect
 
-If you're on TryHackMe, feel free to reach out to me! You can also follow me on [LinkedIn](your-linkedin-profile-link) for more updates on my cybersecurity journey.
+If you're on TryHackMe, feel free to reach out to me! You can also follow me on https://www.linkedin.com/in/adriansmbln/ for more updates on my cybersecurity journey.
 
 ---
 
