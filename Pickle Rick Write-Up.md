@@ -1,4 +1,4 @@
-# Solving the Pickle Rick CTF on TryHackMe
+#Pickle Rick CTF on TryHackMe
 
 ## Introduction
 Welcome, fellow hackers! In this write-up, I'll walk you through my approach to solving the **Pickle Rick** CTF challenge on TryHackMe. If you're just getting started with CTFs, this is a great beginner-friendly challenge that covers web exploitation, enumeration, and privilege escalation. 
